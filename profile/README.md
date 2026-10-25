@@ -52,13 +52,17 @@ No gatekeeping. No black boxes. Just good software, built in the open.
 
 ## 📦 Featured projects
 
-| Project                                            | What it does                          | Status        |
-| -------------------------------------------------- | -------------------------------------- | ------------- |
-| 🌱 *Planting the first seeds…*                      | Our first public projects are on their way — watch this space! | Soon |
+<div align="center">
 
-<!-- To feature a project, replace the row above with a pin card:
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Neyam-OpenSc&repo=REPO_NAME&theme=default&show_owner=true" />
--->
+<a href="https://github.com/Neyam-OpenSc/neyam-vaani">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Neyam-OpenSc&repo=neyam-vaani&show_owner=true&title_color=C05621&icon_color=D97706&text_color=57606a" alt="Neyam Vaani" />
+</a>
+
+</div>
+
+| Project | What it does | Status |
+| --- | --- | --- |
+| 🪔 [**neyam-vaani**](https://github.com/Neyam-OpenSc/neyam-vaani) | Voice-first, offline AI assistant for Indian vernacular languages — private by default, tender by design | Phase 0 · Bootstrap |
 
 ---
 
