@@ -63,6 +63,7 @@ No gatekeeping. No black boxes. Just good software, built in the open.
 | Project | What it does | Status |
 | --- | --- | --- |
 | 🪔 [**neyam-vaani**](https://github.com/Neyam-OpenSc/neyam-vaani) · [🌐 site](https://neyam-opensc.github.io/neyam-vaani/) | Voice-first, offline AI assistant for Indian vernacular languages — private by default, tender by design | Phase 0 · Bootstrap |
+| 🌐 [**neyam-opensc.github.io**](https://github.com/Neyam-OpenSc/neyam-opensc.github.io) | This organization's website — open source, built for people | Live |
 
 ---
 
